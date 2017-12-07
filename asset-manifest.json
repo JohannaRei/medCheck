@@ -1,10 +1,12 @@
 {
-  "main.css": "static/css/main.08cced07.css",
-  "main.css.map": "static/css/main.08cced07.css.map",
-  "main.js": "static/js/main.4e4643c7.js",
-  "main.js.map": "static/js/main.4e4643c7.js.map",
+  "main.css": "static/css/main.85f2f0f1.css",
+  "main.css.map": "static/css/main.85f2f0f1.css.map",
+  "main.js": "static/js/main.35e83a3f.js",
+  "main.js.map": "static/js/main.35e83a3f.js.map",
   "static/media/contact.svg": "static/media/contact.af1c13d9.svg",
+  "static/media/leevi.png": "static/media/leevi.602a1a56.png",
   "static/media/list.svg": "static/media/list.3638936c.svg",
   "static/media/pills.svg": "static/media/pills.21510916.svg",
-  "static/media/user2.svg": "static/media/user2.439b688e.svg"
+  "static/media/user2.svg": "static/media/user2.439b688e.svg",
+  "static/media/vera.png": "static/media/vera.d67e84ce.png"
 }
